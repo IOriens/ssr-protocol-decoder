@@ -30,6 +30,7 @@ jobs:
       - add_ssh_keys:
           fingerprints:
             - "58:e4:7c:0b:f3:3d:0d:b4:35:5b:2b:13:79:38:08:f7"
+      - run: cp -R .circleci public
       - run: npm run deploy
 workflows:
   version: 2
