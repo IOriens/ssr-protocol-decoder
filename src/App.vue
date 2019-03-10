@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div class="header">
-      <h1>SSR Protocol Decoder</h1>
+      <h1>Online SSR Protocol Decoder</h1>
     </div>
 
     <div class="main">
