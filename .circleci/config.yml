@@ -25,8 +25,8 @@ jobs:
           keys:
             - npm-{{ checksum "package.json" }}
       - run: npm install
-      - run: git config user.name "Junjie Ding"
-      - run: git config user.email djjoriens@gmail.com
+      - run: git config --global user.name "Junjie Ding"
+      - run: git config --global user.email "djjoriens@gmail.com"
       - run: npm run deploy
 workflows:
   version: 2
