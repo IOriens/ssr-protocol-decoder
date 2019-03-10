@@ -1,5 +1,7 @@
 # ssr-parser
 
+[![CircleCI](https://circleci.com/gh/IOriens/ssr-protocol-decoder/tree/master.svg?style=svg)](https://circleci.com/gh/IOriens/ssr-protocol-decoder/tree/master)
+
 ## Project setup
 ```
 npm install
