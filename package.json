@@ -11,7 +11,7 @@
   "dependencies": {
     "clipboard": "^2.0.4",
     "element-ui": "^2.4.5",
-    "highlight.js": "^9.15.6",
+    "highlight.js": "^10.4.1",
     "vue": "^2.6.6"
   },
   "devDependencies": {
